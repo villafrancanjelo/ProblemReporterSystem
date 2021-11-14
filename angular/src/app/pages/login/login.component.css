@@ -33,7 +33,7 @@ body{
         background-color: rgb(146, 33, 33);
         width: 24%;
         padding: 30px;
-        padding-bottom: 46px;  
+    
         
 }
 
@@ -81,4 +81,15 @@ button{
 	height: 29px;
     margin-left: 90px;
     font-size: 15px;
+}
+.SignIn{
+    font-size: 17px;
+    margin-top: 30px;
+    color: white;
+   
+}
+
+.btn_signin{
+    color: black;
+    text-decoration: none;
 }
