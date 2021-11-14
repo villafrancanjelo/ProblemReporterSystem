@@ -1,0 +1,96 @@
+body{
+    background: url(https://fastly.4sqi.net/img/general/600x600/19845957_TE9aX2CC-VFGop2WFBZQjblprolKhMXVTLF8Wl9m9bQ.jpg) no-repeat -1px -276px;
+  
+    background-repeat: no-repeat;
+    background-size: 1282px 988px;
+  }
+  header{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 12px;
+    border-bottom: solid 4px#cc8800;
+  
+  }
+  #hmiddle2{
+    border: 0px solid black;
+    background: #cc8800;
+    text-align:  center;
+    color: #cc8800;
+    padding-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: -16px;
+  }
+  
+  #hmiddle{
+    border: 0px solid black;
+    background: #cc8800;
+    text-align:  center;
+    color: #cc8800;
+    padding-bottom: 0px;
+    margin-top: -2%;
+    margin-bottom: -16px;
+  }
+  mat-card{
+    width: 583px;
+    height: 266px;
+    position: absolute;
+    left: 24%;
+    background: maroon;
+    top: 126px;
+    padding-bottom: 122px;
+    border-radius: 12px 12px;
+  }
+  input[type="submit"]{
+    border-radius: 16px 16px;
+    border: 0px solid;
+    background: #ff3e3e;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 6px;
+    margin-left: 75%;
+    width: 100px;
+    height: 35px;
+  }
+  mat-form-field{
+    margin-left: 12px;
+    width: 90%;
+    color: white;
+  }
+  textarea{
+    height: 120px;
+  }
+  input{
+    padding-top: 10px;
+    padding-bottom: 9px;
+    font-size: 14px;
+  }
+  mat-label{
+    color: white;
+  }
+  input{
+    color: white;
+  }
+  
+  #top{
+    border: 1px solid maroon;
+    background: maroon;
+    text-align:  center;
+    color:white;
+  }
+  
+  #top img{
+    position: absolute;
+    width:7%;
+    height:76px;
+    left: 2%;
+  }
+  #middle {
+    border: 0px solid #000000f2;
+    background: #00000047;
+    text-align: center;
+    color: #cc880000;
+    padding-bottom: 0px;
+    margin-top: 1%;
+    margin-bottom: -16px;
+    height: 89.6%;
+  }
