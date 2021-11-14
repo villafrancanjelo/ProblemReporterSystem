@@ -18,8 +18,9 @@ import {MatListModule} from "@angular/material/list";
 
 const routes: Routes = [
 
-  {path: 'login', component: LoginComponent,
-    children:[ {path: 'register', component: RegisterComponent}]},
+  {path: 'login', component: LoginComponent},
+   {path: 'register', component: RegisterComponent},
+
 {path: "**", redirectTo: 'login'}
 ]
 @NgModule({

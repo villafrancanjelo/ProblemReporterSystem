@@ -7,9 +7,18 @@ body{
 header{
   font-size: 30px;
   color: white;
-  padding-bottom: 12px;
-  border-bottom: solid 4px#cc8800;
-
+  margin-bottom: -28px;
+  padding-bottom: 16px;
+  border-bottom: solid 4px #cc8800;
+}
+#link{
+  margin-top: 12px;
+  margin-left: 12px;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color:black;
 }
 #hmiddle2{
   border: 0px solid black;
