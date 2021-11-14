@@ -1,3 +1,164 @@
-.example-container .mat-form-field + .mat-form-field {
-    margin-left: 8px;
-  }
+body{
+	background: url(https://fastly.4sqi.net/img/general/600x600/19845957_TE9aX2CC-VFGop2WFBZQjblprolKhMXVTLF8Wl9m9bQ.jpg) no-repeat -1px -276px;
+	background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+.login-form{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: 1px none solid black;
+	border-radius: 15px 12px;
+	box-shadow: 2px 13px 12px 3px;
+	outline: none;
+	background-color: maroon;
+	width: 24%;
+	padding: 30px;
+	padding-bottom: 46px;
+
+}
+
+
+.login-form header{
+	color: white;
+	border-bottom: 2px solid #fff70075;
+	margin-left: -15px;
+	margin-right: 34px;
+	width: 110%;
+	font-size: 180%;
+}
+
+
+
+#line{
+	margin-left: -5px;
+	margin-right: 33px;
+}
+
+
+
+
+
+.login-form p{
+	position: absolute;
+	top: 235px;
+}
+
+.text{
+	margin-left: 23%;	
+}
+
+
+
+.text2 label{
+	margin-left: -2%;
+	font-family: sans-serif;
+	color: white;
+}
+.text label{
+	margin-left: 18%;
+	font-family: sans-serif;
+	color: white;
+}
+
+.button-form{
+	margin-left: 25%;	
+}
+
+input[type="text"]{
+	width: 66%;
+	height: 20px;
+	font-family: sans-serif;
+
+
+}
+input[type="submit"]{
+	border-radius: 15px 16px;
+	border: 0px solid;
+	background:#ff3e3e;
+	color: white;
+	font-family: sans-serif;
+	width: 66%;
+	height: 29px;
+}
+
+
+#top{
+	
+	border: 1px solid maroon;
+	background: maroon;
+	text-align:  center;
+	color:white;
+}
+
+#top img{
+	position: absolute;
+	width:7%; 
+	height:76px;
+	left: 2%;
+}
+
+#hmiddle2{
+	border: 0px solid black;
+	background: #cc8800;
+	text-align:  center;
+	color: #cc8800;
+	padding-bottom: 0px;
+	margin-top: -2%;
+	margin-bottom: -16px;
+}
+
+#hmiddle{
+	border: 0px solid black;
+	background: #cc8800;
+	text-align:  center;
+	color: #cc8800;
+	padding-bottom: 0px;
+	margin-top: -2%;
+	margin-bottom: -16px;
+}
+
+#middle{
+	
+	border: 0px solid #00000073;
+	background: #00000073;
+	text-align:  center;
+	padding-bottom: 516px;
+	padding-top: 2px;
+	
+
+}
+
+#buttom{
+	position: absolute;
+	top: 595px;	
+	text-align: left;
+	border: 0px solid black;
+	background: #000000ba;
+	width: 98%;
+	color:white;
+	padding-left: 2%;
+	padding-bottom: 2px;
+}
+
+
+.erorr{
+	position: absolute;
+	top: 248px;
+	left: 21px;
+	color: white;
+} 
+
+.alert-message-error{
+	position: absolute;
+	left: 108px;
+	bottom: 17px;
+	color: #cc8800;
+
+}
+
+
+
