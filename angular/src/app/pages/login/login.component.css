@@ -1,0 +1,84 @@
+body{
+    padding: 0;
+	margin:0;
+    background: url(https://img.wattpad.com/e52606af7dded4acf53c405c9017fe5f8ba4061a/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4a56327559564958654d6a7a74513d3d2d352e313633656161313539316534376132633939313431313836393031322e6a7067?s=fit&w=720&h=720);
+ 
+    background-size: 1519px 714px;
+}
+
+.top{
+	
+	border: 1px solid maroon;
+	background: maroon;
+	text-align:  center;
+	color:white;
+}
+
+.top img{
+	position: absolute;
+	width:7%; 
+	height:70px;
+	left: 2%;
+}
+
+.form{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border: 1px none solid black;
+        border-radius: 15px 12px;
+        box-shadow: 2px 13px 12px 3px;
+        outline: none;
+        background-color: rgb(146, 33, 33);
+        width: 24%;
+        padding: 30px;
+        padding-bottom: 46px;  
+        
+}
+
+.field{
+    margin-left: 90px;
+
+}
+
+.label{
+    color: white;
+    font-size: 15px;
+}
+
+.input{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-bottom: 9;
+}
+
+#hmiddle2{
+	border: 0px solid black;
+	background: #cc8800;
+	text-align:  center;
+	color: #cc8800;
+	padding-bottom: 0px;
+	margin-top: -1px;
+	margin-bottom: -16px;
+}
+
+.header{
+    font-size: 30px;
+    color: white;
+    border-bottom: 2px solid #fff70075;
+    padding: 20px;
+}
+
+button{
+    border-radius: 15px 16px;
+	border: 0px solid;
+	background:#ff3e3e;
+	color: white;
+	font-family: sans-serif;
+	width: 50%;
+	height: 29px;
+    margin-left: 90px;
+    font-size: 15px;
+}
