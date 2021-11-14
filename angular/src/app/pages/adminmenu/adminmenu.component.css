@@ -1,0 +1,84 @@
+body{
+    padding: 0;
+	margin:0;
+    background-size: 1519px 714px;
+}
+
+.top{
+	
+	border: 1px solid maroon;
+	background: maroon;
+	text-align:  center;
+	color:white;
+}
+
+.top img{
+	position: absolute;
+	width:7%; 
+	height:70px;
+	left: 2%;
+}
+
+#hmiddle2{
+	border: 0px solid black;
+	background: #cc8800;
+	text-align:  center;
+	color: #cc8800;
+	padding-bottom: 0px;
+	margin-top: -1px;
+	margin-bottom: -16px;
+}
+
+.report{
+   
+    margin-left: 370px;
+    margin-top: 150px;
+
+}
+
+.rep{
+    height: 210px;
+    width: 210px;
+    border-radius:30px;
+    box-shadow: 2px 2px 2px 1px;
+    margin-right: 200px;
+    margin-left: 30px;
+}
+
+.text1{
+    font-size: 20px;
+    margin-left: 95px;
+}
+
+.text2{
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.erolledID{
+    margin-top: 140px;
+   
+}
+
+.id{
+    height: 210px;
+    width: 210px;
+    border-radius:30px;
+    box-shadow: 2px 2px 2px 1px;
+}
+
+.btn-report{
+    border: 0;      
+    background: #ffffff;
+	outline: none;
+    border-radius: 20px 25px;
+    cursor: pointer;
+}
+
+.btn-enrolled{
+    border: 0;      
+    background: #ffffff;
+	outline: none;
+    border-radius: 20px 25px;
+    cursor: pointer;
+}
