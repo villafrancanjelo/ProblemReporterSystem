@@ -11,6 +11,8 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
+import { UpdateComponent } from './pages/update/update.component';
+import {MatIconModule} from "@angular/material/icon";
 
 
 
@@ -18,7 +20,8 @@ import {MatCardModule} from '@angular/material/card';
 const routes: Routes = [
   {path: 'login', component: LoginComponent},
   {path: 'register', component: RegisterComponent},
- 
+  {path: 'update', component: UpdateComponent},
+
 
 {path: "**", redirectTo: 'login'}
 ]
@@ -26,7 +29,8 @@ const routes: Routes = [
   declarations: [
     AppComponent,
     LoginComponent,
-    RegisterComponent
+    RegisterComponent,
+    UpdateComponent
   ],
   imports: [
     BrowserModule,
@@ -38,6 +42,7 @@ const routes: Routes = [
     RouterModule.forRoot(
       routes
     ),
+    MatIconModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
