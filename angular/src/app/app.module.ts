@@ -12,6 +12,7 @@ import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
 import { AdministratorComponent } from './pages/administrator/administrator.component';
+import { EnrollIDComponent } from './pages/enroll-id/enroll-id.component';
 
 
 
@@ -29,7 +30,8 @@ const routes: Routes = [
     AppComponent,
     LoginComponent,
     RegisterComponent,
-    AdministratorComponent
+    AdministratorComponent,
+    EnrollIDComponent
   ],
   imports: [
     BrowserModule,
